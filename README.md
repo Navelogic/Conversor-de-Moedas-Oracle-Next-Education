@@ -1,8 +1,9 @@
-# 💱 Conversor de Moedas — Oracle Next Education
+<img width="1280" height="640" alt="Logo conversor de moedas" src="https://github.com/user-attachments/assets/ec35f53a-ab43-405d-aa03-7a1d0f4aca22" />
 
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen?logo=spring)
 ![License](https://img.shields.io/badge/Project-Navelogic-blueviolet)
+
 ## 📌 Descrição
 
 Este é um **Conversor de Moedas** desenvolvido como desafio do **Oracle Next Education (ONE)**.  
